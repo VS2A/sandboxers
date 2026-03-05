@@ -1,7 +1,7 @@
 # Sandboxers
 A falling sand simulation game with hundreds of elements, heat simulation, chemical reactions, fire, density, electricity, and more.
 
-![Landscape made in Sandboxels](https://raw.githubusercontent.com/R74nCom/sandboxels/main/icons/cover-3840x1240px-text.png)
+![Landscape made in Sandboxels](https://raw.githubusercontent.com/VS2A/sandboxers/refs/heads/main/icons/Untitled417_20260305225023.png)
 
 # Modding
 **Mods are no longer accepted in this repository.** Please go to the new one at [R74nCom/Sandboxels-Mods](https://github.com/R74nCom/Sandboxels-Mods/).
